@@ -1,2 +1,2 @@
-# WAND-Implementation
+# WAND C++ Implementation
 A simple C++ implementation of the WAND top-k retrieval algorithm. 
